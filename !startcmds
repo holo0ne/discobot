@@ -1,0 +1,5 @@
+#Activate env:
+source dbot/bin/activate
+
+#Deactivate:
+deactivate
